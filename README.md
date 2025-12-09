@@ -7,7 +7,7 @@ An end‑to‑end data pipeline built on **Microsoft Fabric** that transforms ra
 ## 📋 Business Problem (Summary)
 Insurance and disaster‑management firms struggle to use raw USGS earthquake data because it is too granular, inconsistent, and not business‑ready. This project solves that by building a pipeline that delivers **severity scores, geospatial bins, and risk categories**, enabling actuaries, planners, and analysts to make informed decisions on **premium pricing, urban safety, and disaster response**.
 
-👉 [Read the full Business Problem](BUSINESS_PROBLEM.md)
+👉 [Read the full Business Problem]([BUSINESS_PROBLEM.md](https://github.com/Mru017/Global-Seismic-Risk-Profiler/blob/danger-zone/Buniness%20Problem.pdf))
 
 ---
 
