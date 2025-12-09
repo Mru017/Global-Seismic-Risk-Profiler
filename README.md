@@ -1,5 +1,7 @@
 # 🌍 Global Seismic Risk Profiler
 
+![workflow](https://github.com/Mru017/Global-Seismic-Risk-Profiler/blob/danger-zone/Logo.jpg)
+
 An end‑to‑end data pipeline built on **Microsoft Fabric** that transforms raw earthquake telemetry from the **USGS API** into actionable business insights. Using the **Medallion Architecture (Bronze → Silver → Gold)**, the pipeline ingests, cleans, and enriches seismic data to produce **risk‑ready datasets** for insurance, urban planning, and disaster preparedness.
 
 ---
