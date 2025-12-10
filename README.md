@@ -48,8 +48,4 @@ Insurance and disaster‑management firms struggle to use raw USGS earthquake da
 
 ---
 
-## 🔗 Next Steps
-- Expand pipeline to include other natural hazards (floods, hurricanes).  
-- Automate CI/CD with GitHub Actions.  
-- Enhance dashboards with predictive analytics.  
 
