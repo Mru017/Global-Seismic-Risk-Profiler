@@ -43,8 +43,8 @@ Insurance and disaster‑management firms struggle to use raw USGS earthquake da
 
 ---
 
-## 📸 Visuals
-(Add screenshots of your architecture diagram, lineage view, and Power BI dashboard here.)
+## 📸 Power BI Dashboard
+![Dashboaed](https://github.com/Mru017/Global-Seismic-Risk-Profiler/blob/danger-zone/Eq%20Dashboard.png)
 
 ---
 
