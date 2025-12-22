@@ -1,12 +1,8 @@
 # 🌍 Global Seismic Risk Profiler
 
-![workflow](https://github.com/Mru017/Global-Seismic-Risk-Profiler/blob/danger-zone/Logo.jpg)
+[![workflow](https://github.com/Mru017/Global-Seismic-Risk-Profiler/blob/danger-zone/Logo.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7404460333320417281/)
 
 An end‑to‑end data pipeline built on **Microsoft Fabric** that transforms raw earthquake telemetry from the **USGS API** into actionable business insights. Using the **Medallion Architecture (Bronze → Silver → Gold)**, the pipeline ingests, cleans, and enriches seismic data to produce **risk‑ready datasets** for insurance, urban planning, and disaster preparedness.
-
-[![Watch the Demo]([YOUR_LINKEDIN_POST_URL_HERE](https://www.linkedin.com/feed/update/urn:li:activity:7404460333320417281/))
-
-*Click the image above to watch the full project demo on LinkedIn.*
 
 [Data Source](https://earthquake.usgs.gov/fdsnws/event/1/).
 ---
