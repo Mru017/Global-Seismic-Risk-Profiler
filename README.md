@@ -4,6 +4,10 @@
 
 An end‑to‑end data pipeline built on **Microsoft Fabric** that transforms raw earthquake telemetry from the **USGS API** into actionable business insights. Using the **Medallion Architecture (Bronze → Silver → Gold)**, the pipeline ingests, cleans, and enriches seismic data to produce **risk‑ready datasets** for insurance, urban planning, and disaster preparedness.
 
+[![Watch the Demo](path/to/your/screenshot_with_play_button.png)](YOUR_LINKEDIN_POST_URL_HERE)
+
+*Click the image above to watch the full project demo on LinkedIn.*
+
 [Data Source](https://earthquake.usgs.gov/fdsnws/event/1/).
 ---
 
